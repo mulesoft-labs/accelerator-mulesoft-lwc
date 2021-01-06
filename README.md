@@ -1,8 +1,3 @@
-<a href="https://githubsfdeploy.herokuapp.com">
-  <img alt="Deploy to Salesforce"
-       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
-</a>
-
 # MuleSoft & Lightning Web Components
 
 This repository contains code that can be used to demonstrate how Salesforce Lightning Web Components can be used as a frontend for displaying data from APIs delivered with Mule.  The example I use is for credit info and loans, but the LWC will display whatever fields you pass back from your Mule API so you can customize the demo for a client.<br/>

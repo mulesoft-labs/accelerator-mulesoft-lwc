@@ -6,7 +6,7 @@
 
 	<groupId>701dca15-d8ec-43c6-b9ca-a415b09b8c5b</groupId>
 	<artifactId>accelerator-mulesoft-lwc</artifactId>
-	<version>1.0.0</version>
+	<version>1.5.0</version>
 
 	<name>accelerator-mulesoft-lwc</name>
 	<description>Component of MuleSoft Accelerator for Salesforce Clouds</description>
